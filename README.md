@@ -1,4 +1,4 @@
-# Poker Probability Calculator
+# Texas Hold-em Odds
 
 <img width="1440" alt="Screenshot 2025-03-19 at 10 43 55 PM" src="https://github.com/user-attachments/assets/2d339bf4-f139-4133-8e01-791e64a5677b" />
 
